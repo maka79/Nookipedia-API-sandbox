@@ -1,0 +1,16 @@
+https://api.nookipedia.com/nh/fossils/individuals/Spino skull
+10 objects returned
+{
+    "name": "spino skull",
+    "url": "https://nookipedia.com/wiki/Spinosaurus",
+    "image_url": "https://dodo.ac/np/images/7/7b/Spino_Skull_NH_Icon.png",
+    "fossil_group": "Spinosaurus",
+    "interactable": true,
+    "sell": 4000,
+    "hha_base": 87,
+    "width": 2.0,
+    "length": 2.0,
+    "colors": [
+        "Brown"
+    ]
+}

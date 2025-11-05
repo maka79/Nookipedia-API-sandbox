@@ -1,0 +1,32 @@
+https://api.nookipedia.com/villagers?name=Beardo&game=nh
+1 objects returned
+[
+    {
+        "name": "Beardo",
+        "url": "https://nookipedia.com/wiki/Beardo",
+        "alt_name": "",
+        "title_color": "3fd8e0",
+        "text_color": "fffce9",
+        "id": "bea13",
+        "image_url": "https://dodo.ac/np/images/c/c0/Beardo_NH.png",
+        "species": "Bear",
+        "personality": "Smug",
+        "gender": "Male",
+        "birthday_month": "September",
+        "birthday_day": "27",
+        "sign": "Libra",
+        "quote": "Fashion first!",
+        "phrase": "whiskers",
+        "clothing": "tweed jacket",
+        "islander": false,
+        "debut": "NL",
+        "prev_phrases": [],
+        "appearances": [
+            "NL",
+            "WA",
+            "NH",
+            "HHD",
+            "PC"
+        ]
+    }
+]

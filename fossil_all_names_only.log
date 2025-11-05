@@ -1,0 +1,160 @@
+https://api.nookipedia.com/nh/fossils/all?excludedetails=true
+20 objects returned
+[
+    {
+        "group": "Ankylosaurus",
+        "fossils": [
+            "ankylo skull",
+            "ankylo tail",
+            "ankylo torso"
+        ]
+    },
+    {
+        "group": "Archelon",
+        "fossils": [
+            "archelon skull",
+            "archelon tail"
+        ]
+    },
+    {
+        "group": "Brachiosaurus",
+        "fossils": [
+            "brachio chest",
+            "brachio pelvis",
+            "brachio skull",
+            "brachio tail"
+        ]
+    },
+    {
+        "group": "Deinonychus",
+        "fossils": [
+            "deinony tail",
+            "deinony torso"
+        ]
+    },
+    {
+        "group": "Dimetrodon",
+        "fossils": [
+            "dimetrodon skull",
+            "dimetrodon torso"
+        ]
+    },
+    {
+        "group": "Diplodocus",
+        "fossils": [
+            "diplo chest",
+            "diplo neck",
+            "diplo pelvis",
+            "diplo skull",
+            "diplo tail",
+            "diplo tail tip"
+        ]
+    },
+    {
+        "group": "Iguanodon",
+        "fossils": [
+            "iguanodon skull",
+            "iguanodon tail",
+            "iguanodon torso"
+        ]
+    },
+    {
+        "group": "Mammoth",
+        "fossils": [
+            "mammoth skull",
+            "mammoth torso"
+        ]
+    },
+    {
+        "group": "Megacerops",
+        "fossils": [
+            "megacero skull",
+            "megacero tail",
+            "megacero torso"
+        ]
+    },
+    {
+        "group": "Megaloceros",
+        "fossils": [
+            "left megalo side",
+            "right megalo side"
+        ]
+    },
+    {
+        "group": "Ophthalmosaurus",
+        "fossils": [
+            "ophthalmo skull",
+            "ophthalmo torso"
+        ]
+    },
+    {
+        "group": "Pachycephalosaurus",
+        "fossils": [
+            "pachy skull",
+            "pachy tail"
+        ]
+    },
+    {
+        "group": "Parasaurolophus",
+        "fossils": [
+            "parasaur skull",
+            "parasaur tail",
+            "parasaur torso"
+        ]
+    },
+    {
+        "group": "Pteranodon",
+        "fossils": [
+            "left ptera wing",
+            "ptera body",
+            "right ptera wing"
+        ]
+    },
+    {
+        "group": "Quetzalcoatlus",
+        "fossils": [
+            "left quetzal wing",
+            "quetzal torso",
+            "right quetzal wing"
+        ]
+    },
+    {
+        "group": "Sabertooth Tiger",
+        "fossils": [
+            "sabertooth skull",
+            "sabertooth tail"
+        ]
+    },
+    {
+        "group": "Spinosaurus",
+        "fossils": [
+            "spino skull",
+            "spino tail",
+            "spino torso"
+        ]
+    },
+    {
+        "group": "Stegosaurus",
+        "fossils": [
+            "stego skull",
+            "stego tail",
+            "stego torso"
+        ]
+    },
+    {
+        "group": "T. Rex",
+        "fossils": [
+            "T. rex skull",
+            "T. rex tail",
+            "T. rex torso"
+        ]
+    },
+    {
+        "group": "Triceratops",
+        "fossils": [
+            "tricera skull",
+            "tricera tail",
+            "tricera torso"
+        ]
+    }
+]

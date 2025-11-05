@@ -1,0 +1,44 @@
+https://api.nookipedia.com/nh/clothing/visual-punk dress
+15 objects returned
+{
+    "url": "https://nookipedia.com/wiki/Item%3AVisual-punk%20dress%20%28New%20Horizons%29",
+    "name": "visual-punk dress",
+    "category": "Dress-Up",
+    "sell": 510,
+    "variation_total": 0,
+    "vill_equip": true,
+    "seasonality": "All year",
+    "version_added": "1.0.0",
+    "unlocked": true,
+    "notes": "",
+    "label_themes": [
+        "Party",
+        "Theatrical",
+        "Work"
+    ],
+    "styles": [
+        "Cool"
+    ],
+    "availability": [
+        {
+            "from": "Able Sisters",
+            "note": ""
+        }
+    ],
+    "buy": [
+        {
+            "price": 2040,
+            "currency": "Bells"
+        }
+    ],
+    "variations": [
+        {
+            "name": "visual-punk dress",
+            "variation": "",
+            "image_url": "https://dodo.ac/np/images/1/18/Visual-Punk_Dress_NH_Icon.png",
+            "colors": [
+                "Black"
+            ]
+        }
+    ]
+}

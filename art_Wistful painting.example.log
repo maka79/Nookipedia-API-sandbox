@@ -1,0 +1,23 @@
+https://api.nookipedia.com/nh/art/Wistful painting
+19 objects returned
+{
+    "name": "Wistful painting",
+    "url": "https://nookipedia.com/wiki/Wistful%20painting",
+    "image_url": "https://dodo.ac/np/images/a/ab/Wistful_Painting_NH_Icon.png",
+    "has_fake": true,
+    "fake_image_url": "https://dodo.ac/np/images/3/36/Wistful_Painting_%28Fake%29_NH_Icon.png",
+    "texture_url": "https://dodo.ac/np/images/4/42/Wistful_Painting_NH_Texture.png",
+    "fake_texture_url": "https://dodo.ac/np/images/4/4f/Wistful_Painting_%28Fake%29_NH_Texture.png",
+    "art_name": "Girl with a Pearl Earring",
+    "art_type": "Painting",
+    "author": "Johannes Vermeer",
+    "year": "circa 1665",
+    "art_style": "Oil on canvas",
+    "description": "Also known as \"Girl with a Turban,\" this piece uses ultramarine paint, which was expensive at the time. It seems the expense was worth it, as the vivid blue colors draw the eye and help make the piece a classic. The only question is... Is that a real pearl earring? Or something else...",
+    "buy": 4980,
+    "sell": 1245,
+    "availability": "Jolly Redd's Treasure Trawler",
+    "authenticity": "In the forgery, the woman's earring is star-shaped. Additionally, the woman on the forged painting will periodically open and close her eyes. If the earring is rounded, it is genuine.",
+    "width": 1.0,
+    "length": 1.0
+}

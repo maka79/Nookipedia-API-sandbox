@@ -1,0 +1,34 @@
+https://api.nookipedia.com/nh/interior/Spooky flooring
+19 objects returned
+{
+    "url": "https://nookipedia.com/wiki/Item%3ASpooky%20flooring%20%28New%20Horizons%29",
+    "name": "spooky flooring",
+    "image_url": "https://dodo.ac/np/images/f/f7/Spooky_Flooring_NH_Icon.png",
+    "category": "Floors",
+    "item_series": "Spooky",
+    "item_set": "",
+    "hha_category": "",
+    "tag": "Parquet",
+    "hha_base": 231,
+    "sell": 3000,
+    "version_added": "1.5.0",
+    "unlocked": true,
+    "notes": "",
+    "grid_width": "",
+    "grid_length": "",
+    "themes": [
+        "Horror",
+        "Party"
+    ],
+    "colors": [
+        "Brown",
+        "Brown"
+    ],
+    "availability": [
+        {
+            "from": "any villager",
+            "note": "Trade candy or a lollipop with a villager"
+        }
+    ],
+    "buy": []
+}

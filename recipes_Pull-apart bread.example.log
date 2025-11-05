@@ -1,0 +1,27 @@
+https://api.nookipedia.com/nh/recipes/Pull-apart bread
+9 objects returned
+{
+    "url": "https://nookipedia.com/wiki/Item%3APull-apart%20bread%20%28New%20Horizons%29",
+    "name": "pull-apart bread",
+    "image_url": "https://dodo.ac/np/images/c/c8/Pull-Apart_Bread_NH_DIY_Icon.png",
+    "serial_id": 12705,
+    "sell": 200,
+    "recipes_to_unlock": 0,
+    "materials": [
+        {
+            "name": "flour",
+            "count": 2
+        }
+    ],
+    "availability": [
+        {
+            "from": "any villager",
+            "note": ""
+        },
+        {
+            "from": "restaurant",
+            "note": "from the chef"
+        }
+    ],
+    "buy": []
+}

@@ -1,0 +1,83 @@
+https://api.nookipedia.com/nh/bugs/scorpion
+1 objects returned
+[
+    {
+        "name": "scorpion",
+        "url": "https://nookipedia.com/wiki/Scorpion",
+        "number": "80",
+        "image_url": "https://dodo.ac/np/images/9/95/Scorpion_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/f/fe/Scorpion_NH.png",
+        "catchphrase": "I caught a scorpion! It was a sting operation!",
+        "catchphrase2": "",
+        "location": "On the ground",
+        "weather": "Any weather",
+        "rarity": "",
+        "total_catch": "0",
+        "sell_nook": "8000",
+        "sell_flick": "12000",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "7 PM \u2013 4 AM",
+        "n_availability": "May \u2013 Oct",
+        "s_availability": "Nov \u2013 Apr",
+        "catchphrases": [
+            "I caught a scorpion! It was a sting operation!"
+        ],
+        "availability_north": [
+            {
+                "months": "May \u2013 Oct",
+                "time": "7 PM \u2013 4 AM"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "Nov \u2013 Apr",
+                "time": "7 PM \u2013 4 AM"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "NA",
+            "2": "NA",
+            "3": "NA",
+            "4": "NA",
+            "5": "7 PM \u2013 4 AM",
+            "6": "7 PM \u2013 4 AM",
+            "7": "7 PM \u2013 4 AM",
+            "8": "7 PM \u2013 4 AM",
+            "9": "7 PM \u2013 4 AM",
+            "10": "7 PM \u2013 4 AM",
+            "11": "NA",
+            "12": "NA"
+        },
+        "times_by_month_south": {
+            "1": "7 PM \u2013 4 AM",
+            "2": "7 PM \u2013 4 AM",
+            "3": "7 PM \u2013 4 AM",
+            "4": "7 PM \u2013 4 AM",
+            "5": "NA",
+            "6": "NA",
+            "7": "NA",
+            "8": "NA",
+            "9": "NA",
+            "10": "NA",
+            "11": "7 PM \u2013 4 AM",
+            "12": "7 PM \u2013 4 AM"
+        },
+        "n_availability_array": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "11",
+            "12"
+        ]
+    }
+]

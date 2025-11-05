@@ -1,0 +1,80 @@
+https://api.nookipedia.com/nh/gyroids/Crumploid
+19 objects returned
+{
+    "url": "https://nookipedia.com/wiki/Item%3ACrumploid%20%28New%20Horizons%29",
+    "name": "crumploid",
+    "hha_base": 207,
+    "sell": 828,
+    "variation_total": 6,
+    "customizable": true,
+    "custom_kits": 1,
+    "custom_kit_type": "Customization Kit",
+    "custom_body_part": "Color",
+    "cyrus_price": 1000,
+    "sound": "Snare",
+    "version_added": "2.0.0",
+    "unlocked": true,
+    "notes": "",
+    "grid_width": 1.0,
+    "grid_length": 1.0,
+    "availability": [
+        {
+            "from": "dig spot",
+            "note": ""
+        }
+    ],
+    "buy": [],
+    "variations": [
+        {
+            "name": "crumploid",
+            "variation": "Yellow",
+            "image_url": "https://dodo.ac/np/images/5/5c/Crumploid_%28Yellow%29_NH_Icon.png",
+            "colors": [
+                "Yellow",
+                "Orange"
+            ]
+        },
+        {
+            "name": "crumploid",
+            "variation": "Brown",
+            "image_url": "https://dodo.ac/np/images/6/61/Crumploid_%28Brown%29_NH_Icon.png",
+            "colors": [
+                "Brown"
+            ]
+        },
+        {
+            "name": "crumploid",
+            "variation": "Blue",
+            "image_url": "https://dodo.ac/np/images/1/12/Crumploid_%28Blue%29_NH_Icon.png",
+            "colors": [
+                "Aqua",
+                "Blue"
+            ]
+        },
+        {
+            "name": "crumploid",
+            "variation": "Red",
+            "image_url": "https://dodo.ac/np/images/1/10/Crumploid_%28Red%29_NH_Icon.png",
+            "colors": [
+                "Pink",
+                "Red"
+            ]
+        },
+        {
+            "name": "crumploid",
+            "variation": "Green",
+            "image_url": "https://dodo.ac/np/images/6/6d/Crumploid_%28Green%29_NH_Icon.png",
+            "colors": [
+                "Green"
+            ]
+        },
+        {
+            "name": "crumploid",
+            "variation": "Black",
+            "image_url": "https://dodo.ac/np/images/9/96/Crumploid_%28Black%29_NH_Icon.png",
+            "colors": [
+                "Black"
+            ]
+        }
+    ]
+}

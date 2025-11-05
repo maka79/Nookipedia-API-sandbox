@@ -1,0 +1,94 @@
+https://api.nookipedia.com/nh/sea/scallop
+1 objects returned
+[
+    {
+        "name": "scallop",
+        "url": "https://nookipedia.com/wiki/Scallop",
+        "number": "14",
+        "image_url": "https://dodo.ac/np/images/5/55/Scallop_NH_Icon.png",
+        "render_url": "https://dodo.ac/np/images/4/4a/Scallop_NH.png",
+        "catchphrase": "I got a scallop! It otter be savored.",
+        "catchphrase2": "",
+        "shadow_size": "Medium",
+        "shadow_movement": "Slow",
+        "rarity": "",
+        "total_catch": "5",
+        "sell_nook": "1200",
+        "tank_width": "1",
+        "tank_length": "1",
+        "time": "All day",
+        "n_availability": "All year",
+        "s_availability": "All year",
+        "catchphrases": [
+            "I got a scallop! It otter be savored."
+        ],
+        "availability_north": [
+            {
+                "months": "All year",
+                "time": "All day"
+            }
+        ],
+        "availability_south": [
+            {
+                "months": "All year",
+                "time": "All day"
+            }
+        ],
+        "times_by_month_north": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "times_by_month_south": {
+            "1": "All day",
+            "2": "All day",
+            "3": "All day",
+            "4": "All day",
+            "5": "All day",
+            "6": "All day",
+            "7": "All day",
+            "8": "All day",
+            "9": "All day",
+            "10": "All day",
+            "11": "All day",
+            "12": "All day"
+        },
+        "n_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "s_availability_array": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+https://api.nookipedia.com/nh/photos/Muffy's photo
+16 objects returned
+{
+    "url": "https://nookipedia.com/wiki/Item%3AMuffy%27s%20photo%20%28New%20Horizons%29",
+    "name": "Muffy's photo",
+    "category": "Photos",
+    "hha_base": 351,
+    "sell": 10,
+    "customizable": true,
+    "custom_kits": 1,
+    "custom_body_part": "Frame",
+    "interactable": true,
+    "version_added": "1.0.0",
+    "unlocked": true,
+    "grid_width": 1.0,
+    "grid_length": 1.0,
+    "availability": [
+        {
+            "from": "friendship",
+            "note": ""
+        }
+    ],
+    "buy": [],
+    "variations": [
+        {
+            "name": "Muffy's photo",
+            "variation": "Natural wood",
+            "image_url": "https://dodo.ac/np/images/7/7e/Muffy%27s_Photo_%28Natural_Wood%29_NH_Icon.png",
+            "colors": [
+                "Purple",
+                "Black"
+            ]
+        },
+        {
+            "name": "Muffy's photo",
+            "variation": "Dark wood",
+            "image_url": "https://dodo.ac/np/images/8/86/Muffy%27s_Photo_%28Dark_Wood%29_NH_Icon.png",
+            "colors": [
+                "Purple",
+                "Black"
+            ]
+        },
+        {
+            "name": "Muffy's photo",
+            "variation": "Pastel",
+            "image_url": "https://dodo.ac/np/images/9/9a/Muffy%27s_Photo_%28Pastel%29_NH_Icon.png",
+            "colors": [
+                "Purple",
+                "Black"
+            ]
+        },
+        {
+            "name": "Muffy's photo",
+            "variation": "White",
+            "image_url": "https://dodo.ac/np/images/6/68/Muffy%27s_Photo_%28White%29_NH_Icon.png",
+            "colors": [
+                "Purple",
+                "Black"
+            ]
+        },
+        {
+            "name": "Muffy's photo",
+            "variation": "Pop",
+            "image_url": "https://dodo.ac/np/images/c/c3/Muffy%27s_Photo_%28Pop%29_NH_Icon.png",
+            "colors": [
+                "Purple",
+                "Black"
+            ]
+        },
+        {
+            "name": "Muffy's photo",
+            "variation": "Colorful",
+            "image_url": "https://dodo.ac/np/images/e/e0/Muffy%27s_Photo_%28Colorful%29_NH_Icon.png",
+            "colors": [
+                "Purple",
+                "Black"
+            ]
+        },
+        {
+            "name": "Muffy's photo",
+            "variation": "Silver",
+            "image_url": "https://dodo.ac/np/images/9/97/Muffy%27s_Photo_%28Silver%29_NH_Icon.png",
+            "colors": [
+                "Purple",
+                "Black"
+            ]
+        },
+        {
+            "name": "Muffy's photo",
+            "variation": "Gold",
+            "image_url": "https://dodo.ac/np/images/6/6d/Muffy%27s_Photo_%28Gold%29_NH_Icon.png",
+            "colors": [
+                "Purple",
+                "Black"
+            ]
+        }
+    ]
+}

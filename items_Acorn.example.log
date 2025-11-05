@@ -1,0 +1,32 @@
+https://api.nookipedia.com/nh/items/Acorn
+19 objects returned
+{
+    "url": "https://nookipedia.com/wiki/Item%3AAcorn%20%28New%20Horizons%29",
+    "name": "acorn",
+    "image_url": "https://dodo.ac/np/images/9/9f/Acorn_NH_Icon.png",
+    "stack": 30,
+    "hha_base": 0,
+    "sell": 200,
+    "is_fence": false,
+    "material_type": "Tree",
+    "material_seasonality": "Fall",
+    "material_sort": 3,
+    "material_name_sort": 0,
+    "material_seasonality_sort": 3,
+    "edible": false,
+    "plant_type": "",
+    "version_added": "1.0.0",
+    "unlocked": true,
+    "notes": "",
+    "availability": [
+        {
+            "from": "tree",
+            "note": "Shaking"
+        },
+        {
+            "from": "Cornimer",
+            "note": ""
+        }
+    ],
+    "buy": []
+}

@@ -1,0 +1,453 @@
+https://api.nookipedia.com/nh/furniture/Castle tower
+30 objects returned
+{
+    "url": "https://nookipedia.com/wiki/Item%3ACastle%20tower%20%28New%20Horizons%29",
+    "name": "castle tower",
+    "category": "Housewares",
+    "item_series": "",
+    "item_set": "Castle",
+    "hha_category": "",
+    "tag": "Screen",
+    "hha_base": 403,
+    "lucky": false,
+    "lucky_season": "",
+    "sell": 62500,
+    "variation_total": 8,
+    "pattern_total": 5,
+    "customizable": true,
+    "custom_kits": 13,
+    "custom_kit_type": "customization kit",
+    "custom_body_part": "Variation",
+    "custom_pattern_part": "Emblem",
+    "height": "35.47377",
+    "door_decor": false,
+    "version_added": "2.0.0",
+    "unlocked": true,
+    "notes": "",
+    "grid_width": 2.0,
+    "grid_length": 2.0,
+    "themes": [
+        "European",
+        "Fantasy"
+    ],
+    "functions": [],
+    "availability": [
+        {
+            "from": "Nook Shopping",
+            "note": "daily selection"
+        },
+        {
+            "from": "Paradise Planning office",
+            "note": ""
+        }
+    ],
+    "buy": [
+        {
+            "price": 250000,
+            "currency": "Bells"
+        },
+        {
+            "price": 225000,
+            "currency": "Poki"
+        }
+    ],
+    "variations": [
+        {
+            "name": "castle tower",
+            "variation": "Gray",
+            "pattern": "None",
+            "image_url": "https://dodo.ac/np/images/0/0b/Castle_Tower_%28Gray_-_None%29_NH_Icon.png",
+            "colors": [
+                "Gray"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Gray",
+            "pattern": "Crown",
+            "image_url": "https://dodo.ac/np/images/e/e4/Castle_Tower_%28Gray_-_Crown%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Red"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Gray",
+            "pattern": "Swords",
+            "image_url": "https://dodo.ac/np/images/2/20/Castle_Tower_%28Gray_-_Swords%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Gray",
+            "pattern": "Bird",
+            "image_url": "https://dodo.ac/np/images/1/18/Castle_Tower_%28Gray_-_Bird%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Orange"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Gray",
+            "pattern": "Tree",
+            "image_url": "https://dodo.ac/np/images/b/b1/Castle_Tower_%28Gray_-_Tree%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Green"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Ivory",
+            "pattern": "None",
+            "image_url": "https://dodo.ac/np/images/1/16/Castle_Tower_%28Ivory_-_None%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Beige"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Ivory",
+            "pattern": "Crown",
+            "image_url": "https://dodo.ac/np/images/b/b1/Castle_Tower_%28Ivory_-_Crown%29_NH_Icon.png",
+            "colors": [
+                "Red",
+                "Beige"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Ivory",
+            "pattern": "Swords",
+            "image_url": "https://dodo.ac/np/images/c/c7/Castle_Tower_%28Ivory_-_Swords%29_NH_Icon.png",
+            "colors": [
+                "Beige",
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Ivory",
+            "pattern": "Bird",
+            "image_url": "https://dodo.ac/np/images/0/0e/Castle_Tower_%28Ivory_-_Bird%29_NH_Icon.png",
+            "colors": [
+                "Beige",
+                "Orange"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Ivory",
+            "pattern": "Tree",
+            "image_url": "https://dodo.ac/np/images/2/2e/Castle_Tower_%28Ivory_-_Tree%29_NH_Icon.png",
+            "colors": [
+                "Beige",
+                "Green"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Brown",
+            "pattern": "None",
+            "image_url": "https://dodo.ac/np/images/1/1a/Castle_Tower_%28Brown_-_None%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Brown",
+            "pattern": "Crown",
+            "image_url": "https://dodo.ac/np/images/2/2b/Castle_Tower_%28Brown_-_Crown%29_NH_Icon.png",
+            "colors": [
+                "Red",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Brown",
+            "pattern": "Swords",
+            "image_url": "https://dodo.ac/np/images/0/01/Castle_Tower_%28Brown_-_Swords%29_NH_Icon.png",
+            "colors": [
+                "Blue",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Brown",
+            "pattern": "Bird",
+            "image_url": "https://dodo.ac/np/images/2/2f/Castle_Tower_%28Brown_-_Bird%29_NH_Icon.png",
+            "colors": [
+                "Orange",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Brown",
+            "pattern": "Tree",
+            "image_url": "https://dodo.ac/np/images/9/92/Castle_Tower_%28Brown_-_Tree%29_NH_Icon.png",
+            "colors": [
+                "Green",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Dark gray",
+            "pattern": "None",
+            "image_url": "https://dodo.ac/np/images/a/a3/Castle_Tower_%28Dark_Gray_-_None%29_NH_Icon.png",
+            "colors": [
+                "Gray"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Dark gray",
+            "pattern": "Crown",
+            "image_url": "https://dodo.ac/np/images/2/28/Castle_Tower_%28Dark_Gray_-_Crown%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Red"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Dark gray",
+            "pattern": "Swords",
+            "image_url": "https://dodo.ac/np/images/f/ff/Castle_Tower_%28Dark_Gray_-_Swords%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Dark gray",
+            "pattern": "Bird",
+            "image_url": "https://dodo.ac/np/images/2/27/Castle_Tower_%28Dark_Gray_-_Bird%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Orange"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Dark gray",
+            "pattern": "Tree",
+            "image_url": "https://dodo.ac/np/images/1/1c/Castle_Tower_%28Dark_Gray_-_Tree%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Green"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Pink-beige",
+            "pattern": "None",
+            "image_url": "https://dodo.ac/np/images/5/54/Castle_Tower_%28Pink-Beige_-_None%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Pink"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Pink-beige",
+            "pattern": "Crown",
+            "image_url": "https://dodo.ac/np/images/4/41/Castle_Tower_%28Pink-Beige_-_Crown%29_NH_Icon.png",
+            "colors": [
+                "Pink",
+                "Red"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Pink-beige",
+            "pattern": "Swords",
+            "image_url": "https://dodo.ac/np/images/6/60/Castle_Tower_%28Pink-Beige_-_Swords%29_NH_Icon.png",
+            "colors": [
+                "Pink",
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Pink-beige",
+            "pattern": "Bird",
+            "image_url": "https://dodo.ac/np/images/f/fc/Castle_Tower_%28Pink-Beige_-_Bird%29_NH_Icon.png",
+            "colors": [
+                "Pink",
+                "Orange"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Pink-beige",
+            "pattern": "Tree",
+            "image_url": "https://dodo.ac/np/images/2/20/Castle_Tower_%28Pink-Beige_-_Tree%29_NH_Icon.png",
+            "colors": [
+                "Pink",
+                "Green"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Blue & white",
+            "pattern": "None",
+            "image_url": "https://dodo.ac/np/images/d/d5/Castle_Tower_%28Blue_%26_White_-_None%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Blue & white",
+            "pattern": "Crown",
+            "image_url": "https://dodo.ac/np/images/d/d7/Castle_Tower_%28Blue_%26_White_-_Crown%29_NH_Icon.png",
+            "colors": [
+                "Red",
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Blue & white",
+            "pattern": "Swords",
+            "image_url": "https://dodo.ac/np/images/1/1f/Castle_Tower_%28Blue_%26_White_-_Swords%29_NH_Icon.png",
+            "colors": [
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Blue & white",
+            "pattern": "Bird",
+            "image_url": "https://dodo.ac/np/images/9/95/Castle_Tower_%28Blue_%26_White_-_Bird%29_NH_Icon.png",
+            "colors": [
+                "Orange",
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Blue & white",
+            "pattern": "Tree",
+            "image_url": "https://dodo.ac/np/images/4/41/Castle_Tower_%28Blue_%26_White_-_Tree%29_NH_Icon.png",
+            "colors": [
+                "Blue",
+                "Green"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Light brown",
+            "pattern": "None",
+            "image_url": "https://dodo.ac/np/images/6/6f/Castle_Tower_%28Light_Brown_-_None%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Beige"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Light brown",
+            "pattern": "Crown",
+            "image_url": "https://dodo.ac/np/images/a/a0/Castle_Tower_%28Light_Brown_-_Crown%29_NH_Icon.png",
+            "colors": [
+                "Red",
+                "Beige"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Light brown",
+            "pattern": "Swords",
+            "image_url": "https://dodo.ac/np/images/e/e6/Castle_Tower_%28Light_Brown_-_Swords%29_NH_Icon.png",
+            "colors": [
+                "Beige",
+                "Blue"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Light brown",
+            "pattern": "Bird",
+            "image_url": "https://dodo.ac/np/images/c/ce/Castle_Tower_%28Light_Brown_-_Bird%29_NH_Icon.png",
+            "colors": [
+                "Beige",
+                "Orange"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Light brown",
+            "pattern": "Tree",
+            "image_url": "https://dodo.ac/np/images/e/e0/Castle_Tower_%28Light_Brown_-_Tree%29_NH_Icon.png",
+            "colors": [
+                "Beige",
+                "Green"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Damaged",
+            "pattern": "None",
+            "image_url": "https://dodo.ac/np/images/3/3f/Castle_Tower_%28Damaged_-_None%29_NH_Icon.png",
+            "colors": [
+                "Gray",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Damaged",
+            "pattern": "Crown",
+            "image_url": "https://dodo.ac/np/images/7/77/Castle_Tower_%28Damaged_-_Crown%29_NH_Icon.png",
+            "colors": [
+                "Red",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Damaged",
+            "pattern": "Swords",
+            "image_url": "https://dodo.ac/np/images/0/03/Castle_Tower_%28Damaged_-_Swords%29_NH_Icon.png",
+            "colors": [
+                "Blue",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Damaged",
+            "pattern": "Bird",
+            "image_url": "https://dodo.ac/np/images/f/fb/Castle_Tower_%28Damaged_-_Bird%29_NH_Icon.png",
+            "colors": [
+                "Orange",
+                "Brown"
+            ]
+        },
+        {
+            "name": "castle tower",
+            "variation": "Damaged",
+            "pattern": "Tree",
+            "image_url": "https://dodo.ac/np/images/2/20/Castle_Tower_%28Damaged_-_Tree%29_NH_Icon.png",
+            "colors": [
+                "Green",
+                "Brown"
+            ]
+        }
+    ]
+}

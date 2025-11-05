@@ -1,0 +1,53 @@
+https://api.nookipedia.com/nh/fossils/all/Spinosaurus
+6 objects returned
+{
+    "name": "Spinosaurus",
+    "url": "https://nookipedia.com/wiki/Spinosaurus",
+    "room": 2,
+    "description": "Ahem. Yes. The Spinosaurus was a very large, carnivorous dinosaur, roughly the size of a T. Rex. Unlike its more famous cousin, however, Spinosaurus seems to have spent a great deal of time in water. Similar to modern crocodiles, this creature lived on a diet of fish AND land-dwelling animals. Personally, I am simply relieved that it did not seek FLYING prey.",
+    "matched": {
+        "type": "group",
+        "name": "Spinosaurus"
+    },
+    "fossils": [
+        {
+            "name": "spino skull",
+            "url": "https://nookipedia.com/wiki/Spinosaurus",
+            "image_url": "https://dodo.ac/np/images/7/7b/Spino_Skull_NH_Icon.png",
+            "interactable": true,
+            "sell": 4000,
+            "hha_base": 87,
+            "width": 2.0,
+            "length": 2.0,
+            "colors": [
+                "Brown"
+            ]
+        },
+        {
+            "name": "spino tail",
+            "url": "https://nookipedia.com/wiki/Spinosaurus",
+            "image_url": "https://dodo.ac/np/images/4/40/Spino_Tail_NH_Icon.png",
+            "interactable": false,
+            "sell": 2500,
+            "hha_base": 87,
+            "width": 2.0,
+            "length": 2.0,
+            "colors": [
+                "Brown"
+            ]
+        },
+        {
+            "name": "spino torso",
+            "url": "https://nookipedia.com/wiki/Spinosaurus",
+            "image_url": "https://dodo.ac/np/images/9/92/Spino_Torso_NH_Icon.png",
+            "interactable": false,
+            "sell": 3000,
+            "hha_base": 87,
+            "width": 2.0,
+            "length": 2.0,
+            "colors": [
+                "Brown"
+            ]
+        }
+    ]
+}

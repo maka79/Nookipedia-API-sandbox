@@ -49,53 +49,53 @@ if __name__ == "__main__":
                                     globalPauseOnPrint=False)
     if not skip_tests:
         for item_type in item_types:
-            doRESTQuery(item_type, outfile_dir="./")
+            doRESTQuery(item_type, outfile_dir="./logs")
 
         # Individual villager test
-        doRESTQuery('villagers', 'Beardo', outfile_dir="./")
+        doRESTQuery('villagers', 'Beardo', outfile_dir="./logs")
 
         # Individual fish test
-        doRESTQuery('fish', 'arowana', outfile_dir="./")
+        doRESTQuery('fish', 'arowana', outfile_dir="./logs")
 
         # Individual bugs test
-        doRESTQuery('bugs', 'scorpion', outfile_dir="./")
+        doRESTQuery('bugs', 'scorpion', outfile_dir="./logs")
 
         # Individual sea critters test
-        doRESTQuery('sea', 'scallop', outfile_dir="./")
+        doRESTQuery('sea', 'scallop', outfile_dir="./logs")
 
         # Individual clothing test
-        doRESTQuery('clothing', 'visual-punk dress', outfile_dir="./")
+        doRESTQuery('clothing', 'visual-punk dress', outfile_dir="./logs")
 
         # Individual tools test
-        doRESTQuery('tools', 'Slingshot', outfile_dir="./")
+        doRESTQuery('tools', 'Slingshot', outfile_dir="./logs")
 
         # Individual gyroids test
-        doRESTQuery('gyroids', 'Crumploid', outfile_dir="./")
+        doRESTQuery('gyroids', 'Crumploid', outfile_dir="./logs")
 
         # Individual art test
-        doRESTQuery('art', 'Wistful painting', outfile_dir="./")
+        doRESTQuery('art', 'Wistful painting', outfile_dir="./logs")
 
         # Individual furniture test
-        doRESTQuery('furniture', 'Castle tower', outfile_dir="./")
+        doRESTQuery('furniture', 'Castle tower', outfile_dir="./logs")
 
         # Individual interor test
-        doRESTQuery('interior', 'Spooky flooring', outfile_dir="./")
+        doRESTQuery('interior', 'Spooky flooring', outfile_dir="./logs")
 
         # Individual photos test
-        doRESTQuery('photos', 'Muffy\'s photo', outfile_dir="./")
+        doRESTQuery('photos', 'Muffy\'s photo', outfile_dir="./logs")
 
         # Individual items test
-        doRESTQuery('items', 'Acorn', outfile_dir="./")
+        doRESTQuery('items', 'Acorn', outfile_dir="./logs")
 
         # Individual recipes test
-        doRESTQuery('recipes', 'Pull-apart bread', outfile_dir="./")
+        doRESTQuery('recipes', 'Pull-apart bread', outfile_dir="./logs")
 
         # Individual fossil test
-        doRESTQuery('fossils', 'Spino skull', outfile_dir="./")
+        doRESTQuery('fossils', 'Spino skull', outfile_dir="./logs")
 
         # Individual fossil group test
-        doRESTQuery('fossil_groups', 'Spinosaurus', outfile_dir="./")
+        doRESTQuery('fossil_groups', 'Spinosaurus', outfile_dir="./logs")
 
         # Individual fossil group and item test
-        doRESTQuery('fossil_all', 'Spinosaurus', outfile_dir="./")
+        doRESTQuery('fossil_all', 'Spinosaurus', outfile_dir="./logs")
 

@@ -2,6 +2,7 @@
 
 from NookipediaToObsidianBase import NookipediaToObsidianBase
 import json
+import argparse
 
 skip_tests = True
 
@@ -16,7 +17,7 @@ def doRESTQuery(item_type, item_name=''):
     print(json.dumps(resp_json, indent=4))
 
 
-if __name__ == "__main__":
+def main(base_path="/Users/Matt/Develop/Projects/Obsidian Plugin Dev/ACNH Database"):
     item_types = [
         'villagers',
         'fish',
@@ -36,7 +37,7 @@ if __name__ == "__main__":
         'fossil_all'
     ]
 
-    ntob = NookipediaToObsidianBase(base_folder="/Users/Matt/Develop/Projects/Obsidian Plugin Dev/ACNH Database",
+    ntob = NookipediaToObsidianBase(base_folder=base_path,
                                     api_key="86c16905-70aa-4c7e-9d33-43b698691779", throttle=0.5,
                                     globalPauseOnPrint=False)
     if not skip_tests:
@@ -106,3 +107,9 @@ if __name__ == "__main__":
 
     # TO DO: Look into python unit test frameworks
 
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Runs queries using the Nookipedia REST API")
+    parser.add_argument("-b", "--base_path", type=str, help="Path to a folder inside an Obsidian vault to store the generated" \
+        "markdown files", default="")
+    args = parser.parse_args()
+    main(args.base_path)

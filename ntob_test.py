@@ -97,3 +97,12 @@ if __name__ == "__main__":
     # Do a get items by type on miscellaneous items -- should work like clothing, gyroids and tools
     #ntob.getItemsByType('items')
 
+    # TO DO: add a main function with argparse for command line arguments:
+    #   - Switch for base folder
+    #   - Switch for item type to pull
+    #   - Switch for individual item by name
+    #   - Switch for debug prints
+    #   - Switch for api key
+
+    # TO DO: Look into python unit test frameworks
+

@@ -114,8 +114,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# VSCODE IDE
-.vscode
+# VSCODE IDE -- disabled so that launch configurations are version controlled
+# .vscode
 
 #Pycharm IDE
 .idea

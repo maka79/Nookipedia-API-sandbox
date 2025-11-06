@@ -6,7 +6,7 @@ import argparse
 
 skip_tests = True
 
-def doRESTQuery(item_type, item_name=''):
+def doRESTQuery(ntob, item_type, item_name=''):
     if item_name:
         url = ntob.genUrl(item_type, item_name)
     else:
@@ -42,58 +42,58 @@ def main(base_path="/Users/Matt/Develop/Projects/Obsidian Plugin Dev/ACNH Databa
                                     globalPauseOnPrint=False)
     if not skip_tests:
         for item_type in item_types:
-            doRESTQuery(item_type)
+            doRESTQuery(ntob, item_type)
 
         # Individual villager test
-        doRESTQuery('villagers', 'Beardo')
+        doRESTQuery(ntob, 'villagers', 'Beardo')
 
         # Individual fish test
-        doRESTQuery('fish', 'arowana')
+        doRESTQuery(ntob, 'fish', 'arowana')
 
         # Individual bugs test
-        doRESTQuery('bugs', 'scorpion')
+        doRESTQuery(ntob, 'bugs', 'scorpion')
 
         # Individual sea critters test
-        doRESTQuery('sea', 'scallop')
+        doRESTQuery(ntob, 'sea', 'scallop')
 
         # Individual clothing test
-        doRESTQuery('clothing', 'visual-punk dress')
+        doRESTQuery(ntob, 'clothing', 'visual-punk dress')
 
         # Individual tools test
-        doRESTQuery('tools', 'Slingshot')
+        doRESTQuery(ntob, 'tools', 'Slingshot')
 
         # Individual gyroids test
-        doRESTQuery('gyroids', 'Crumploid')
+        doRESTQuery(ntob, 'gyroids', 'Crumploid')
 
         # Individual art test
-        doRESTQuery('art', 'Wistful painting')
+        doRESTQuery(ntob, 'art', 'Wistful painting')
 
         # Individual furniture test
-        doRESTQuery('furniture', 'Castle tower')
+        doRESTQuery(ntob, 'furniture', 'Castle tower')
 
         # Individual interor test
-        doRESTQuery('interior', 'Spooky flooring')
+        doRESTQuery(ntob, 'interior', 'Spooky flooring')
 
         # Individual photos test
-        doRESTQuery('photos', 'Muffy\'s photo')
+        doRESTQuery(ntob, 'photos', 'Muffy\'s photo')
 
         # Individual items test
-        doRESTQuery('items', 'Acorn')
+        doRESTQuery(ntob, 'items', 'Acorn')
 
         # Individual recipes test
-        doRESTQuery('recipes', 'Pull-apart bread')
+        doRESTQuery(ntob, 'recipes', 'Pull-apart bread')
 
         # Individual fossil test
-        doRESTQuery('fossils', 'Spino skull')
+        doRESTQuery(ntob, 'fossils', 'Spino skull')
 
         # Individual fossil group test
-        doRESTQuery('fossil_groups', 'Spinosaurus')
+        doRESTQuery(ntob, 'fossil_groups', 'Spinosaurus')
 
         # Individual fossil group and item test
-        doRESTQuery('fossil_all', 'Spinosaurus')
+        doRESTQuery(ntob, 'fossil_all', 'Spinosaurus')
 
     # Do a get items by type on Photos -- should work like clothing, gyroids and tools
-    ntob.getItemsByType('photos')
+    ntob.getItemsByType(ntob, 'photos')
 
     # Do a get items by type on miscellaneous items -- should work like clothing, gyroids and tools
     #ntob.getItemsByType('items')
